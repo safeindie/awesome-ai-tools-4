@@ -633,6 +633,7 @@ A curated list of awesome AI tools
 - [Chat EQ](https://chateq.com) - Enhance Conflict Management Skills for Effective Communication. [Free]
 - [AI Lean Canvas Generator](https://leancanvas.business) - AI-driven platform for swift, accurate business model creation.. [Freemium]
 - [Delineate ](https://delineate.co) - Elevate e-commerce with AI-driven insights, predictive analytics, and comprehensive customer segmentation.. [Free Trial]
+- [Photoshoot](https://photoshoot.app/?utm_source=github_tankvn_awesome&utm_medium=backlink&utm_campaign=202609_w7_backlinks) - AI commercial photography studio: turn one product photo into studio-grade e-commerce listing images, model try-on shots and ad creatives.. [Freemium]
 - [Am I balding?](https://amibalding.co) - Instant, private AI hair loss analysis.. [Free]
 - [Pestel Analysis](https://pestel.dev) - Streamline strategic planning with AI-driven environmental analysis.. [Freemium]
 - [Tactic](https://tactic.fyi) - Simplifies research, analysis, and decision-making by generating valuable insights from a wide range of documents, regardless of their source.. [Contact for Pricing]
